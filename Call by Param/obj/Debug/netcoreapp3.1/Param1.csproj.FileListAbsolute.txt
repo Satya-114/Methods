@@ -1,0 +1,12 @@
+C:\Users\Satya Maddila\source\repos\Param1\obj\Debug\netcoreapp3.1\Param1.AssemblyInfoInputs.cache
+C:\Users\Satya Maddila\source\repos\Param1\obj\Debug\netcoreapp3.1\Param1.AssemblyInfo.cs
+C:\Users\Satya Maddila\source\repos\Param1\obj\Debug\netcoreapp3.1\Param1.csproj.CoreCompileInputs.cache
+C:\Users\Satya Maddila\source\repos\Param1\bin\Debug\netcoreapp3.1\Param1.exe
+C:\Users\Satya Maddila\source\repos\Param1\bin\Debug\netcoreapp3.1\Param1.deps.json
+C:\Users\Satya Maddila\source\repos\Param1\bin\Debug\netcoreapp3.1\Param1.runtimeconfig.json
+C:\Users\Satya Maddila\source\repos\Param1\bin\Debug\netcoreapp3.1\Param1.runtimeconfig.dev.json
+C:\Users\Satya Maddila\source\repos\Param1\bin\Debug\netcoreapp3.1\Param1.dll
+C:\Users\Satya Maddila\source\repos\Param1\bin\Debug\netcoreapp3.1\Param1.pdb
+C:\Users\Satya Maddila\source\repos\Param1\obj\Debug\netcoreapp3.1\Param1.dll
+C:\Users\Satya Maddila\source\repos\Param1\obj\Debug\netcoreapp3.1\Param1.pdb
+C:\Users\Satya Maddila\source\repos\Param1\obj\Debug\netcoreapp3.1\Param1.genruntimeconfig.cache
