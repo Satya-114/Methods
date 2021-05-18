@@ -1,0 +1,12 @@
+C:\Users\Satya Maddila\source\repos\call by value\obj\Debug\netcoreapp3.1\call by value.AssemblyInfoInputs.cache
+C:\Users\Satya Maddila\source\repos\call by value\obj\Debug\netcoreapp3.1\call by value.AssemblyInfo.cs
+C:\Users\Satya Maddila\source\repos\call by value\obj\Debug\netcoreapp3.1\call by value.csproj.CoreCompileInputs.cache
+C:\Users\Satya Maddila\source\repos\call by value\bin\Debug\netcoreapp3.1\call by value.exe
+C:\Users\Satya Maddila\source\repos\call by value\bin\Debug\netcoreapp3.1\call by value.deps.json
+C:\Users\Satya Maddila\source\repos\call by value\bin\Debug\netcoreapp3.1\call by value.runtimeconfig.json
+C:\Users\Satya Maddila\source\repos\call by value\bin\Debug\netcoreapp3.1\call by value.runtimeconfig.dev.json
+C:\Users\Satya Maddila\source\repos\call by value\bin\Debug\netcoreapp3.1\call by value.dll
+C:\Users\Satya Maddila\source\repos\call by value\bin\Debug\netcoreapp3.1\call by value.pdb
+C:\Users\Satya Maddila\source\repos\call by value\obj\Debug\netcoreapp3.1\call by value.dll
+C:\Users\Satya Maddila\source\repos\call by value\obj\Debug\netcoreapp3.1\call by value.pdb
+C:\Users\Satya Maddila\source\repos\call by value\obj\Debug\netcoreapp3.1\call by value.genruntimeconfig.cache
