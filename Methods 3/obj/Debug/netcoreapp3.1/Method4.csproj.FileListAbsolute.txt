@@ -1,0 +1,12 @@
+C:\Users\Satya Maddila\source\repos\Method4\bin\Debug\netcoreapp3.1\Method4.exe
+C:\Users\Satya Maddila\source\repos\Method4\bin\Debug\netcoreapp3.1\Method4.deps.json
+C:\Users\Satya Maddila\source\repos\Method4\bin\Debug\netcoreapp3.1\Method4.runtimeconfig.json
+C:\Users\Satya Maddila\source\repos\Method4\bin\Debug\netcoreapp3.1\Method4.runtimeconfig.dev.json
+C:\Users\Satya Maddila\source\repos\Method4\bin\Debug\netcoreapp3.1\Method4.dll
+C:\Users\Satya Maddila\source\repos\Method4\bin\Debug\netcoreapp3.1\Method4.pdb
+C:\Users\Satya Maddila\source\repos\Method4\obj\Debug\netcoreapp3.1\Method4.AssemblyInfoInputs.cache
+C:\Users\Satya Maddila\source\repos\Method4\obj\Debug\netcoreapp3.1\Method4.AssemblyInfo.cs
+C:\Users\Satya Maddila\source\repos\Method4\obj\Debug\netcoreapp3.1\Method4.csproj.CoreCompileInputs.cache
+C:\Users\Satya Maddila\source\repos\Method4\obj\Debug\netcoreapp3.1\Method4.dll
+C:\Users\Satya Maddila\source\repos\Method4\obj\Debug\netcoreapp3.1\Method4.pdb
+C:\Users\Satya Maddila\source\repos\Method4\obj\Debug\netcoreapp3.1\Method4.genruntimeconfig.cache
